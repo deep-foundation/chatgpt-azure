@@ -4,14 +4,15 @@
     "npm-pull": "npx npm-pull"
   },
   "dependencies": {
-    "@deep-foundation/chatgpt-tokens-gpt-4-encoder": "~1.0.1",
-    "@deep-foundation/core": "^0.0.2",
+    "@deep-foundation/chatgpt-tokens-gpt-4-encoder": "~1.0.3",
+    "@deep-foundation/core": "~0.0.2",
     "@deep-foundation/messaging": "~2.0.0",
-    "@deep-foundation/openai": "~1.0.2",
+    "@deep-foundation/openai": "~1.1.1",
     "@deep-foundation/tokens": "^0.0.11",
-    "@freephoenix888/dependency": "^0.0.1"
+    "@deep-foundation/tsx": "~0.0.5",
+    "@freephoenix888/dependency": "~0.0.1"
   },
-  "version": "1.0.3",
+  "version": "3.0.3",
   "keywords": [
     "deep-package"
   ],
