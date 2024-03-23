@@ -1,5 +1,8 @@
 {
   "name": "@deep-foundation/chatgpt-azure",
+  "scripts": {
+    "npm-pull": "npx npm-automation pull"
+  },
   "dependencies": {
     "@deep-foundation/chatgpt-tokens-gpt-4-encoder": "~1.0.1",
     "@deep-foundation/core": "^0.0.2",
