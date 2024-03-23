@@ -11,5 +11,8 @@
   "version": "1.0.3",
   "keywords": [
     "deep-package"
-  ]
+  ],
+  "devDependencies": {
+    "@deep-foundation/npm-automation": "^18.1.15"
+  }
 }
